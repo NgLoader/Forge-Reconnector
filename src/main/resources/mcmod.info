@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Reconnector",
+  "name": "Reconnector Mod",
+  "description": "Reconnecting every 5seconds when disconnected",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NgLoader"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
